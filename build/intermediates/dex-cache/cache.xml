@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Dev\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Dev\Android\Workspace\e_EffectiveNavigation\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-a65e8a57ab67128bc248f2d0838edb0ba73a4025.jar" />
+    </item>
+    <item
+        jar="C:\Dev\Android\Workspace\e_EffectiveNavigation\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Dev\Android\Workspace\e_EffectiveNavigation\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-610a3f3094482073a6827738c8c5dd7dcbc6d734.jar" />
+    </item>
+    <item
+        jar="C:\Dev\Android\Workspace\e_EffectiveNavigation\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Dev\Android\Workspace\e_EffectiveNavigation\app\build\intermediates\pre-dexed\debug\classes-8a16cc55c7bf074de316a8b88ee9f061b25b0759.jar" />
+    </item>
+    <item
+        jar="C:\Dev\Android\Workspace\e_Budgy\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Dev\Android\Workspace\e_Budgy\app\build\intermediates\pre-dexed\debug\classes-0985ef6232ecf9e8cb0a39cd954c3cc2d2f8a709.jar" />
+    </item>
+    <item
+        jar="C:\Dev\Android\Workspace\e_Budgy\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Dev\Android\Workspace\e_Budgy\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-79751ac94d3f623178c828598338c6697a69e66f.jar" />
+    </item>
+
+</items>
